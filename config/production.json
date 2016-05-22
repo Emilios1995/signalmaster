@@ -19,9 +19,9 @@
   ],
   "turnservers": [
     {
-      "urls": ["turn:your.turn.servers.here"],
-      "secret": "turnserversharedsecret",
-      "expiry": 86400
+      "urls": ["turn:numb.viagenie.ca:3478"],
+      "credential": "exponessrtc",
+      "username": "emilios1995@gmail.com"
     }
   ]
 }
